@@ -456,7 +456,7 @@ if(Boost_VERSION_STRING VERSION_GREATER_EQUAL 1.77.0)
 endif()
 
 if(OPENMW_USE_SYSTEM_MYGUI)
-    find_package(MyGUI 3.4.2 REQUIRED)
+    find_package(MyGUI 3.4.3 REQUIRED)
 endif()
 find_package(SDL2 2.0.9 REQUIRED)
 find_package(OpenAL REQUIRED)
