@@ -153,7 +153,7 @@ CSMFilter::Token CSMFilter::Parser::getStringToken()
             ++mIndex;
             break;
         }
-    };
+    }
 
     if (!string.empty())
     {

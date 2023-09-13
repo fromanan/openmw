@@ -114,7 +114,7 @@ void CSVRender::CellArrow::adjustTransform()
             x += offset;
             yr = angle;
             break;
-    };
+    }
 
     mBaseNode->setPosition(osg::Vec3f(x, y, 0));
 

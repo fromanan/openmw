@@ -322,7 +322,7 @@ namespace MWGui
                 break;
             case ReviewDialog::BIRTHSIGN_DIALOG:
                 MWBase::Environment::get().getWindowManager()->pushGuiMode(GM_Birth);
-        };
+        }
     }
 
     void CharacterCreation::selectPickedClass()
@@ -377,7 +377,7 @@ namespace MWGui
             case ClassChoiceDialog::Class_Back:
                 MWBase::Environment::get().getWindowManager()->pushGuiMode(GM_Race);
                 break;
-        };
+        }
     }
 
     void CharacterCreation::onNameDialogDone(WindowBase* parWindow)
