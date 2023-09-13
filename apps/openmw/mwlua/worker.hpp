@@ -43,4 +43,4 @@ namespace MWLua
     };
 }
 
-#endif // OPENMW_MWLUA_LUAWORKER_H
+#endif // OPENMW_MWLUA_WORKER_H

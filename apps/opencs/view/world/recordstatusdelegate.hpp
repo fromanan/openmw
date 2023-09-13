@@ -36,4 +36,4 @@ namespace CSVWorld
         ///< The ownership of the returned CommandDelegate is transferred to the caller.
     };
 }
-#endif // RECORDSTATUSDELEGATE_HPP
+#endif // RECORDSTATUSDELEGATE_H

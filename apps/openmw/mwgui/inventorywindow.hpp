@@ -141,4 +141,4 @@ namespace MWGui
     };
 }
 
-#endif // Inventory_H
+#endif // MGUI_Inventory_H

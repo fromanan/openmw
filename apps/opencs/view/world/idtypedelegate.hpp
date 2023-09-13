@@ -37,4 +37,4 @@ namespace CSVWorld
     };
 }
 
-#endif // REFIDTYPEDELEGATE_HPP
+#endif // IDTYPEDELEGATE_HPP

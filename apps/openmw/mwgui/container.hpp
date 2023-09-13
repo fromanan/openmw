@@ -66,4 +66,4 @@ namespace MWGui
         void onReferenceUnavailable() override;
     };
 }
-#endif // CONTAINER_H
+#endif // MGUI_CONTAINER_H
